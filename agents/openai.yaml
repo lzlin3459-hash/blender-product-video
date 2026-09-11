@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender 产品展示制作"
+  short_description: "从产品参考图到可编辑三维资产、配音动画与高清交付的完整制作流程"
+  default_prompt: "使用 $blender-product-video，根据我提供的产品资料制作可编辑三维模型和产品展示视频。"
